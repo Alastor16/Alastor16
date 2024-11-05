@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alastorgv" target="blank"><img src="https://img.shields.io/twitter/follow/alastorgv?logo=twitter&style=for-the-badge" alt="alastorgv" /></a> </p>
 <p>
-  I am a biologist with a focus on computational biology. I have worked in the game industry as a narrative developer and in data analysis for enterteinment projects. 
+  I am a biologist with a focus on computational biology. I have worked in the game industry as a narrative developer and in data analysis for entertainment projects. 
   I am focusing now on data analysis with different projects with a focus on data storytelling using my background in the game industry. 
   You can check some personal projects on the Data analysis repository.
 </p>
